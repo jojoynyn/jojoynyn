@@ -1,5 +1,5 @@
 ## Hi there, I'm George 👋
-### Developer from Russia 🇷🇺
+### Backend Developer
 
 *Profile design is now in progress...*\
 *stay tuned* ✌️
